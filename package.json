@@ -1,7 +1,7 @@
 {
   "name": "24-7-music-bot",
   "version": "1.0.0",
-  "description": "A 24/7 music bot for Discord that can play from a livestream or a list of videos.",
+  "description": "A 24/7 music bot for Discord that can play from a list of user-defined videos.",
   "main": "index.js",
   "scripts": {
     "bot": "node ."
