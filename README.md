@@ -11,6 +11,6 @@ A 24/7 music bot for Discord that can play from a list of user-defined videos.
 
 4. The next step is to install the dependencies. Change directory into the folder and install them with `npm i`.
 
-5. After that, rename `config.json.example` to `config.json` and modify the contents inside to contain your bot token, voice channel ID, and a list of videos you want the bot to shuffle through. You can find out how to get the channel ID [here](https://youtu.be/6dqYctHmazc). For one singular video the list will only have one element, and should look `["like_this"]`. For multiple videos, the list will need multiple elements separated by commas, and should look ["like", "this"]. **All video URLs need `https://` at the beginning.**
+5. After that, rename `config.json.example` to `config.json` and modify the contents inside to contain your bot token, voice channel ID, and a list of videos you want the bot to shuffle through. You can find out how to get the channel ID [here](https://youtu.be/6dqYctHmazc). For one singular video the list will only have one element, and should look `["like_this"]`. For multiple videos, the list will need multiple elements separated by commas, and should look `["like", "this"]`. **All video URLs need `https://` at the beginning.**
 
 6. Finally, you can run the bot. Type `npm run bot` in the same directory as `package.json` to start it. It will connect to the channel and start shuffling from the list of videos in `config.json`.
