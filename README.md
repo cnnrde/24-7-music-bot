@@ -1,4 +1,5 @@
 # 24/7 Discord Music Bot
+**This project is currently based off of Discord.js v12. I do not have plans to transition it to v13 until I have a better understanding of the new voice library.**
 ## Description
 A 24/7 music bot for Discord that can play from a list of user-defined videos.
 ## Set-up guide
