@@ -1,5 +1,5 @@
 {
   "channel_id": "000000000000000000",
-  "video_urls": ["youtube_url_1", "youtube_url_2", "youtube_url_3"]
+  "video_urls": ["youtube_url_1", "youtube_url_2", "youtube_url_3"],
   "webserver": true
 }
