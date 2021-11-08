@@ -8,7 +8,7 @@ A 24/7 music bot for Discord that can play from a list of user-defined videos.
 
 ## Set-up guide
 
-**Note: [Node.js](https://nodejs.org/) and [ffmpeg](https://ffmpeg.org/) are required.**
+**Note: [Node.js](https://nodejs.org/) V12.0.0 or up are required.**
 
 1. First, you need to create a bot user for Discord. You can do this by going to the [Discord Developer Dashboard](https://discord.com/developers/applications). Create a new app and add a bot user by going to the `Bot` tab at the side of the screen.
 
